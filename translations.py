@@ -1,7 +1,7 @@
 
 class Messages:
 
-    START_MSG = "Hi there {}.\n\nI'm Youtube Uploader Bot.You can use me to upload any telegram video to youtube once you authorise me.You can know more from /help.\n\nThank you! Any Support Needed ? @TechnologicalWorld.\n\nMade By Indian Bot Team✌️."
+    START_MSG = "Hi there {}.\n\nI'm Youtube Uploader Bot.You can use me to upload any telegram video to youtube once you authorise me.You can know more from /help.\n\nThank you!.\n\nMade By Indian Bot Team✌️.Bot Hosted by @Mrvishal_2k2.\n\nCheers😹."
 
     HELP_MSG = [
         ".",
@@ -15,7 +15,7 @@ class Messages:
 
         "**Now lets authorise.**\n\nYou need to give me the access to upload videos to your Youtube account.For that open the given link and allow access and copy the code. Come back here and type `/authorise copied-code` and send it.\n\n**Fear not!**\nI'm not any hacker Or Spammer or someone who wants to creep into people's privacy. I respect one's privacy. I'm here just to help anyone who wants help. If I was a hacker I won't be sitting here writing Telegram Bots! XD  Need Any Help ? @TechnologicalWorld."
         
-        "**Made By IndianBotsTeam.**\n\Support Group : @TechnologicalWorld 😘."
+        "**If still didn't understand?? ¢ Better Die Peacefully U Idiot."
     ]
 
     NOT_A_REPLY_MSG = "Please reply to some video file!You Can Forward It Too."
